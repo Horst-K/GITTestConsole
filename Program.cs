@@ -10,7 +10,7 @@ namespace GITTestConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Funktioniert es? Yes...");
+            Console.WriteLine("Funktioniert es? Yes... No...");
             Console.ReadLine();
         }
     }
